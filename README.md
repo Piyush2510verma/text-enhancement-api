@@ -1,4 +1,3 @@
-# text-enhancement-api
 # AI-Powered Text Enhancement API
 
 This API enhances text using the Google Gemini API. It provides endpoints to refine grammar, improve clarity, and modify tone and length.
